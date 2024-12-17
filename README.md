@@ -100,6 +100,40 @@ The system demonstrates:
 - High accuracy in image analysis and decision-making.
 - Enhanced model interpretability for clinical use.
 
+CODE-
+
+![image](https://github.com/user-attachments/assets/638597cc-9cd7-4c58-8eed-1dc52b98e3e9)
+![image](https://github.com/user-attachments/assets/3cbfd8c0-4568-40d8-a749-d735429f4b9b)
+![image](https://github.com/user-attachments/assets/fc70bcb3-892f-41cc-b4b5-b0f7d7409c0a)
+![image](https://github.com/user-attachments/assets/ae442971-7458-449a-b222-c7062a45ca8e)
+![image](https://github.com/user-attachments/assets/5ff89aa1-a288-4a43-8095-c15cfb1259e2)
+![image](https://github.com/user-attachments/assets/3733be08-2c2a-459f-86e8-3534883dc414)
+![image](https://github.com/user-attachments/assets/b7248bab-49a3-4fb3-baf6-650e9815ca2c)
+
+
+![image](https://github.com/user-attachments/assets/564fc45b-d39a-4bb9-aaec-89b1c16ac75f)
+![image](https://github.com/user-attachments/assets/db310c5d-635e-498b-bae7-5de5b9b174bf)
+![image](https://github.com/user-attachments/assets/4765a75f-597d-4f66-acbd-f818e722954e)
+![image](https://github.com/user-attachments/assets/bbda43dc-2faf-475b-8723-9b0f36f98f9e)
+![image](https://github.com/user-attachments/assets/b8181464-e30f-4f07-9f53-e6375bd26090)
+
+OUTPUT-
+![image](https://github.com/user-attachments/assets/ff71189c-a514-49fb-a6a4-66e5c280042e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Future Enhancements
